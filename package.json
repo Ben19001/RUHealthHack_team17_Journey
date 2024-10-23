@@ -1,0 +1,22 @@
+{
+    "name": "waste-tracking",
+    "version": "1.0.0",
+    "description": "Blockchain-based medical waste tracking system",
+    "main": "truffle-config.js",
+    "scripts": {
+        "test": "truffle test",
+        "migrate": "truffle migrate --network development",
+        "compile": "truffle compile"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.4.0"
+    },
+    "devDependencies": {
+        "truffle": "^5.4.29",
+        "@truffle/hdwallet-provider": "^1.5.1",
+        "@openzeppelin/test-helpers": "^0.5.15",
+        "chai": "^4.3.4"
+    }
+}
