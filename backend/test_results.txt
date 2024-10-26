@@ -1,0 +1,118 @@
+1
+Patient Report
+Specimen ID: 179-988-9015-0 Acct #: 90000999 Phone: (336) 436-8645 Rte: 00
+Control ID: LabCorp Test Master
+Test Account
+SAMPLE REPORT, 505271 5450 Millstream Road
+MCLEANSVILLE NC 27301
+(cid:4)(cid:4)(cid:2)(cid:3)(cid:3)(cid:4)(cid:4)(cid:2)(cid:1)(cid:1)(cid:1)(cid:2)(cid:1)(cid:4)(cid:1)(cid:3)(cid:1)(cid:2)(cid:3)(cid:3)(cid:3)(cid:1)(cid:2)(cid:1)(cid:3)(cid:3)(cid:4)(cid:1)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:1)(cid:3)(cid:1)(cid:4)(cid:4)(cid:1)(cid:1)(cid:4)(cid:2)(cid:2)(cid:1)(cid:2)(cid:2)(cid:4)(cid:1)(cid:2)(cid:2)(cid:4)(cid:3)(cid:2)(cid:3)(cid:1)(cid:4)(cid:2)(cid:2)(cid:1)(cid:2)
+Patient Details Specimen Details Physician Details
+DOB: 07/04/1969 Date collected: 06/28/2019 0000 Local Ordering:
+Age(y/m/d): 049/11/24 Date received: 06/28/2019 Referring:
+Gender: M SSN: Date entered: 06/28/2019 ID:
+Patient ID: Date reported: 07/01/2019 0810 ET NPI:
+General Comments & Additional Information
+Clinical Info: NORMAL REPORT
+Ordered Items
+CD4/CD8 Ratio Profile
+TESTS RESULT FLAG UNITS REFERENCE INTERVAL LAB
+CD4/CD8 Ratio Profile
+Absolute CD 4 Helper 874 /uL 359 - 1519
+% CD 4 Pos. Lymph. 51.4 % 30.8 - 58.5 01
+Abs. CD 8 Suppressor 449 /uL 109 - 897
+% CD 8 Pos. Lymph. 26.4 % 12.0 - 35.5 01
+CD4/CD8 Ratio 1.95 0.92 - 3.72
+WBC 5.7 x10E3/uL 3.4 - 10.8 02
+RBC 4.17 x10E6/uL 4.14 - 5.80 02
+Hemoglobin 15.0 g/dL 13.0 - 17.7 02
+Hematocrit 40.0 % 37.5 - 51.0 02
+MCV 82 fL 79 - 97 02
+MCH 27.1 pg 26.6 - 33.0 02
+MCHC 31.8 g/dL 31.5 - 35.7 02
+RDW 14.6 % 12.3 - 15.4 02
+Platelets 297 x10E3/uL 150 - 450 02
+Neutrophils 60 % Not Estab. 02
+Lymphs 30 % Not Estab. 02
+Monocytes 9 % Not Estab. 02
+Eos 1 % Not Estab. 02
+Basos 0 % Not Estab. 02
+Neutrophils (Absolute) 3.4 x10E3/uL 1.4 - 7.0 02
+Lymphs (Absolute) 1.7 x10E3/uL 0.7 - 3.1 02
+Monocytes(Absolute) 0.5 x10E3/uL 0.1 - 0.9 02
+Eos (Absolute) 0.1 x10E3/uL 0.0 - 0.4 02
+Baso (Absolute) 0.0 x10E3/uL 0.0 - 0.2 02
+Immature Granulocytes 0 % Not Estab. 02
+Immature Grans (Abs) 0.0 x10E3/uL 0.0 - 0.1 02
+01 BN LabCorp Burlington Dir: Sanjai Nagendra, MD
+1447 York Court, Burlington, NC 27215-3361
+Date Issued: 07/01/19 0818 ET FINAL REPORT Page 1 of 2
+This document contains private and confidential health information protected by state and federal law. © 1995-2019 Laboratory Corporation of America® Holdings
+If you have received this document in error, please call 800-222-7566 All Rights Reserved - Enterprise Report Version: 1 . 0 01
+Patient Report
+Patient: SAMPLE REPORT, 505271 Specimen ID: 179-988-9015-0
+DOB: 07/04/1969 Patient ID: Control ID: Date collected: 06/28/2019 0000 Local
+02 $$ Testmaster Testing Dir: Report Testing, PhD
+3060 S Church Street, Burlington, NC 27215
+For inquiries, the physician may contact Branch: 800-222-7566 Lab: 336-436-2762
+Date Issued: 07/01/19 0818 ET FINAL REPORT Page 2 of 2
+This document contains private and confidential health information protected by state and federal law. © 1995-2019 Laboratory Corporation of America® Holdings
+If you have received this document in error, please call 800-222-7566 All Rights Reserved - Enterprise Report Version: 1 . 0 01
+Patient Report
+Specimen ID: 179-988-9016-0 Acct #: 90000999 Phone: (336) 436-8645 Rte: 00
+Control ID: LabCorp Test Master
+Test Account
+SAMPLE REPORT, 505271 5450 Millstream Road
+MCLEANSVILLE NC 27301
+(cid:4)(cid:4)(cid:2)(cid:3)(cid:3)(cid:4)(cid:4)(cid:2)(cid:1)(cid:1)(cid:1)(cid:2)(cid:1)(cid:4)(cid:1)(cid:3)(cid:1)(cid:2)(cid:3)(cid:3)(cid:3)(cid:1)(cid:2)(cid:1)(cid:3)(cid:3)(cid:4)(cid:1)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:1)(cid:3)(cid:1)(cid:4)(cid:4)(cid:1)(cid:1)(cid:4)(cid:2)(cid:2)(cid:1)(cid:2)(cid:2)(cid:4)(cid:1)(cid:2)(cid:2)(cid:4)(cid:3)(cid:2)(cid:3)(cid:1)(cid:4)(cid:2)(cid:2)(cid:1)(cid:2)
+Patient Details Specimen Details Physician Details
+DOB: 02/02/1982 Date collected: 06/28/2019 0000 Local Ordering:
+Age(y/m/d): 037/04/26 Date received: 06/28/2019 Referring:
+Gender: F SSN: Date entered: 06/28/2019 ID:
+Patient ID: Date reported: 07/01/2019 0810 ET NPI:
+General Comments & Additional Information
+Clinical Info: ABNORMAL REPORT
+Ordered Items
+CD4/CD8 Ratio Profile
+TESTS RESULT FLAG UNITS REFERENCE INTERVAL LAB
+CD4/CD8 Ratio Profile
+Absolute CD 4 Helper 18 Low /uL 359 - 1519
+% CD 4 Pos. Lymph. 2.6 Low % 30.8 - 58.5 01
+Abs. CD 8 Suppressor 489 /uL 109 - 897
+% CD 8 Pos. Lymph. 69.8 High % 12.0 - 35.5 01
+CD4/CD8 Ratio 0.04 Low 0.92 - 3.72
+WBC 1.6 Alert x10E3/uL 3.4 - 10.8 02
+Client Requested Flag
+RBC 4.40 x10E6/uL 3.77 - 5.28 02
+Hemoglobin 13.5 g/dL 11.1 - 15.9 02
+Hematocrit 41.4 % 34.0 - 46.6 02
+MCV 94 fL 79 - 97 02
+MCH 30.7 pg 26.6 - 33.0 02
+MCHC 32.6 g/dL 31.5 - 35.7 02
+RDW 16.3 High % 12.3 - 15.4 02
+Platelets 160 x10E3/uL 150 - 450 02
+Neutrophils 40 % Not Estab. 02
+Lymphs 43 % Not Estab. 02
+Monocytes 14 % Not Estab. 02
+Eos 2 % Not Estab. 02
+Basos 1 % Not Estab. 02
+Neutrophils (Absolute) 0.7 Low x10E3/uL 1.4 - 7.0 02
+Lymphs (Absolute) 0.7 x10E3/uL 0.7 - 3.1 02
+Monocytes(Absolute) 0.2 x10E3/uL 0.1 - 0.9 02
+Eos (Absolute) 0.0 x10E3/uL 0.0 - 0.4 02
+Baso (Absolute) 0.0 x10E3/uL 0.0 - 0.2 02
+Immature Granulocytes 0 % Not Estab. 02
+Immature Grans (Abs) 0.0 x10E3/uL 0.0 - 0.1 02
+Date Issued: 07/01/19 0818 ET FINAL REPORT Page 1 of 2
+This document contains private and confidential health information protected by state and federal law. © 1995-2019 Laboratory Corporation of America® Holdings
+If you have received this document in error, please call 800-222-7566 All Rights Reserved - Enterprise Report Version: 1 . 0 01
+Patient Report
+Patient: SAMPLE REPORT, 505271 Specimen ID: 179-988-9016-0
+DOB: 02/02/1982 Patient ID: Control ID: Date collected: 06/28/2019 0000 Local
+01 BN LabCorp Burlington Dir: Sanjai Nagendra, MD
+1447 York Court, Burlington, NC 27215-3361
+02 $$ Testmaster Testing Dir: Report Testing, PhD
+3060 S Church Street, Burlington, NC 27215
+For inquiries, the physician may contact Branch: 800-222-7566 Lab: 336-436-2762
+Date Issued: 07/01/19 0818 ET FINAL REPORT Page 2 of 2
+This document contains private and confidential health information protected by state and federal law. © 1995-2019 Laboratory Corporation of America® Holdings
+If you have received this document in error, please call 800-222-7566 All Rights Reserved - Enterprise Report Version: 1 . 0 0
